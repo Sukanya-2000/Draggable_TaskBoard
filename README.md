@@ -1,8 +1,6 @@
 # Draggable_TaskBoard
 
 
-# Draggable Task Board
-
 Draggable Task Board is a web application that allows users to manage tasks through a draggable task board. Users can create multiple lists, drag tasks between lists, mark tasks as completed, and more. The application is built using Node.js, Express, React, and PostgreSQL with Sequelize.
 
 ## Table of Contents
